@@ -7,8 +7,8 @@
 
 
 ### &rarr; GITHUB statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=shailesh43&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh43&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shailesh43&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh43&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### &rarr; CONNECT with me
