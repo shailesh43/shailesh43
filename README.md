@@ -9,14 +9,3 @@
 ### &rarr; GITHUB statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shailesh43&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh43&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### &rarr; CONNECT with me
-<p align="left">
-<p>&#9;</p>
-<a href="https://www.leetcode.com/shailesh43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shailesh43" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shailesh-sathe-10b4b72b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh-sathe-10b4b72b5" height="30" width="40" /></a>
-<a href="https://twitter.com/shai13sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shai13sh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shai13sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shai13sh" height="30" width="40" /></a>
-</p>
