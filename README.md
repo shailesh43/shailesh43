@@ -1,4 +1,4 @@
-# ```  👋🏼 Heyy, I'm Shailesh! ```
+# ``` Heyy, I'm Shailesh! ```
 > I like to develop and integrate web components with idealistic AI-functionalities...
 
 ### &rarr;  Technologies I use 
