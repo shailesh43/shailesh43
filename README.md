@@ -1,5 +1,5 @@
 # ``` Hey, I'm Shailesh! ```
-> Cooking beautiful and structurized web components......
+> Cooking beautiful and structurized web components...
 
 ### &rarr;  Technologies I use 
 
