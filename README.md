@@ -1,13 +1,25 @@
-# ``` Hey, I'm Shailesh! ```
-> Cooking beautiful and structurized web components...
-
-### &rarr;  Technologies I use 
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat-square&logo=radix-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-
-
-### &rarr; GITHUB statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=shailesh43&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh43&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+## Tech stack:
+<div style="width:500px; display: flex; gap: 10px; align-items:center; flex-wrap:wrap;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/typescript.svg" alt="Image 1" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/js.svg" alt="Image 2" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/python.svg" alt="Image 3" style="width: 40px;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="Image 4" style="width: 40px; height:40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/nodejs.svg" alt="Image 5" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/react.svg" alt="Image 8" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/tailwindcss.svg" alt="Image 8" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/redux.svg" alt="Image 11" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/nextjs2-light.svg" alt="Image 9" style="width: 40px;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="Image 9" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/motion.svg" alt="Image 9" style="width: 40px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="Image 10" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/bun.svg" alt="Image 12" style="width: 40px;">
+    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Image 13" style="width: 40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Image 15" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/mongodb.svg" alt="Image 16" style="width: 40px;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" alt="Image 17" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/git.svg" alt="Image 20" style="width: 40px;">
+    <img src="https://assets.chanhdai.com/images/tech-stack-icons/docker.svg" alt="Image 21" style="width: 40px;">
+    <img src="https://svgmix.com/uploads/skillicons/29026e-aws-dark.svg" alt="Image 18" style="width: 40px;">
+    <img src="https://svgmix.com/uploads/skillicons/b72830-gcp-dark.svg" alt="Image 19" style="width: 40px;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Image 19" style="width: 40px;">
+</div>
