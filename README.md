@@ -1,7 +1,7 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐒𝐡𝐚𝐢𝐥𝐞𝐬𝐡</h1>
 <!-- Contact and keys -->
 <p align="center">
-<a href="https://shaileshsathe.vercel.app" title="Shailesh Portfolio"><code>Portfolio website</code></a> | <a href="mailto:satheshailesh43@gmail.com" title="Email Address"><code>shailesh at gmail</code></a>
+<a href="https://shaileshsathe.vercel.app" title="Shailesh Portfolio"><code>Portfolio website</code></a>
 </p>
 
 <!-- Socials -->
