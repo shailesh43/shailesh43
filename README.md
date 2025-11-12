@@ -1,5 +1,4 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐒𝐡𝐚𝐢𝐥𝐞𝐬𝐡</h1>
-I'm a software developer focused on building clean, seamless experiences for users. I'm good with modern frontend design patterns. As off now, working on my backend skills.
 <!-- Contact and keys -->
 <p align="center">
 <a href="https://shaileshsathe.vercel.app" title="Shailesh Portfolio"><code>Portfolio website</code></a> | <a href="mailto:satheshailesh43@gmail.com" title="Email Address"><code>shailesh at gmail</code></a>
