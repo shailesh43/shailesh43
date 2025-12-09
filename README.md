@@ -43,5 +43,5 @@ I’m a frontend developer passionate about building thoughtful interfaces, crea
 </p>
 
 <p align="left">
-<a href="https://shaileshsathe.vercel.app" title="Shailesh Portfolio"><code>Portfolio website</code></a>
+<a href="https://shailesh.is-a.dev" title="Shailesh Portfolio"><code>Portfolio website</code></a>
 </p>
