@@ -1,12 +1,12 @@
-<h3 align="left" title="...and I'm happy to see you here :)">👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐒𝐡𝐚𝐢𝐥𝐞𝐬𝐡</h3>
+<!-- <h3 align="left" title="...and I'm happy to see you here :)">👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐒𝐡𝐚𝐢𝐥𝐞𝐬𝐡</h3> -->
 
-I’m a frontend developer passionate about building thoughtful interfaces, creating reusable UI systems, and exploring design-to-code workflows. I’m currently looking for opportunities where I can learn a ton, build cool stuff, and work with teams that enjoy what they do.
-
-**What I work on:**
-- UI/UX-driven frontend development  
-- Reusable component libraries  
-- Design-to-code workflows  
-- Open-source UI tooling  
+**Namaste!** I'm *Shailesh* -  20 yo Computer Science grad at Mumbai University
+  - Most days, I'm building with [Next.js](), [React](), [TypeScript](), and modern frontend techs; crafting responsive, user-centric interaces across web & mobile.
+  - Alongside, I’ve built a strong foundations in **APIs, Databases, Cloud services, and UNIX configs**; allowing me to handle the backend side when needed.  
+  - I also contribute to tech communities in college; helping organize seminars & volunteering with tech-stuff.
+  
+  Let’s connect and build together.
+ 
 
 <br/>
 
